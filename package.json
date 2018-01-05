@@ -17,7 +17,7 @@
     "install-deps": "cd dist && ../node_modules/.bin/autod && npm i"
   },
   "devDependencies": {
-    "autod": "2.10.1",
+    "autod": "3.0.1",
     "avet-init": "1.0.1",
     "eslint": "4.14.0",
     "eslint-config-egg": "5.1.1",
