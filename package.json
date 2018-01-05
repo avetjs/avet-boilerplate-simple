@@ -17,12 +17,12 @@
     "install-deps": "cd dist && ../node_modules/.bin/autod && npm i"
   },
   "devDependencies": {
-    "autod": "^2.10.1",
-    "avet-init": "^1.0.0",
-    "eslint": "^4.10.0",
-    "eslint-config-egg": "^5.1.1",
-    "npminstall": "^3.2.1",
-    "webstorm-disable-index": "^1.2.0"
+    "autod": "2.10.1",
+    "avet-init": "1.0.1",
+    "eslint": "4.14.0",
+    "eslint-config-egg": "5.1.1",
+    "npminstall": "3.3.0",
+    "webstorm-disable-index": "1.2.0"
   },
   "tnpm": {
     "mode": "npm"
