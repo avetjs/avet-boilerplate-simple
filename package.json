@@ -20,7 +20,7 @@
     "autod": "3.0.1",
     "avet-init": "1.0.1",
     "eslint": "4.14.0",
-    "eslint-config-egg": "5.1.1",
+    "eslint-config-egg": "6.0.0",
     "npminstall": "3.3.0",
     "webstorm-disable-index": "1.2.0"
   },
